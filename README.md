@@ -1,2 +1,3 @@
 # bookbot
-First project on boot.dev! Will analyze books and count words/letters
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
